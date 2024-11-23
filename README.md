@@ -1,1 +1,2 @@
-# mini-project
+ElectroCart
+Electronic e commerce website
